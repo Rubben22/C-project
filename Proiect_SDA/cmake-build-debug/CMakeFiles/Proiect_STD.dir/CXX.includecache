@@ -1,0 +1,190 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/Entity/Message.h
+User.h
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/Entity/User.h
+string
+-
+fstream
+-
+cstring
+-
+utility
+-
+vector
+-
+
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/Entity/MyException.h
+utility
+-
+
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/Entity/User.h
+../Interfaces/IE.h
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/Interfaces/IE.h
+cstring
+-
+iostream
+-
+utility
+-
+
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/Interfaces/IAdress.h
+IE.h
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/Interfaces/IE.h
+
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/Interfaces/IContainer.h
+IE.h
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/Interfaces/IE.h
+IIterator.h
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/Interfaces/IIterator.h
+
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/Interfaces/IE.h
+cstdlib
+-
+string
+-
+
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/Interfaces/IIterator.h
+IE.h
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/Interfaces/IE.h
+
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/Interfaces/SNode.h
+IE.h
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/Interfaces/IE.h
+IAdress.h
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/Interfaces/IAdress.h
+
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/Repository/RepositoryMessage.h
+../Entity/Message.h
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/Entity/Message.h
+fstream
+-
+../Entity/User.h
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/Entity/User.h
+algorithm
+-
+istream
+-
+
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/Retea/Retea.h
+../TAD-uri/SimpleList/ListContainer.h
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/TAD-uri/SimpleList/ListContainer.h
+../TAD-uri/MultipleMap/NumePrenumeKey.h
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/TAD-uri/MultipleMap/NumePrenumeKey.h
+../TAD-uri/MultipleMap/Pair.h
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/TAD-uri/MultipleMap/Pair.h
+../Entity/User.h
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/Entity/User.h
+iostream
+-
+utility
+-
+../Repository/RepositoryMessage.h
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/Repository/RepositoryMessage.h
+../Entity/MyException.h
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/Entity/MyException.h
+
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/TAD-uri/MultipleMap/MultipleMapContainer.cpp
+MultipleMapContainer.h
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/TAD-uri/MultipleMap/MultipleMapContainer.h
+
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/TAD-uri/MultipleMap/MultipleMapContainer.h
+../../Interfaces/IContainer.h
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/Interfaces/IContainer.h
+../../Interfaces/SNode.h
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/Interfaces/SNode.h
+Pair.h
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/TAD-uri/MultipleMap/Pair.h
+../../Entity/User.h
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/Entity/User.h
+fstream
+-
+string
+-
+cstring
+-
+NumePrenumeKey.h
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/TAD-uri/MultipleMap/NumePrenumeKey.h
+
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/TAD-uri/MultipleMap/NumePrenumeKey.h
+utility
+-
+../../Interfaces/IE.h
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/Interfaces/IE.h
+
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/TAD-uri/MultipleMap/Pair.h
+../../Interfaces/IE.h
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/Interfaces/IE.h
+../../Entity/User.h
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/Entity/User.h
+vector
+-
+cstring
+-
+NumePrenumeKey.h
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/TAD-uri/MultipleMap/NumePrenumeKey.h
+string
+-
+
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/TAD-uri/SimpleList/ListContainer.cpp
+ListContainer.h
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/TAD-uri/SimpleList/ListContainer.h
+
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/TAD-uri/SimpleList/ListContainer.h
+../../Interfaces/IContainer.h
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/Interfaces/IContainer.h
+../../Interfaces/SNode.h
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/Interfaces/SNode.h
+../../Entity/MyException.h
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/Entity/MyException.h
+cstring
+-
+string
+-
+fstream
+-
+vector
+-
+../../Entity/User.h
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/Entity/User.h
+
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/User_Interface/User_Interface.cpp
+User_Interface.h
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/User_Interface/User_Interface.h
+
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/User_Interface/User_Interface.h
+../Retea/Retea.h
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/Retea/Retea.h
+../Entity/MyException.h
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/Entity/MyException.h
+iomanip
+-
+
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/main.cpp
+Entity/User.h
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/Entity/User.h
+User_Interface/User_Interface.h
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/User_Interface/User_Interface.h
+Retea/Retea.h
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/Retea/Retea.h
+iostream
+-
+Interfaces/IContainer.h
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/Interfaces/IContainer.h
+TAD-uri/MultipleMap/MultipleMapContainer.h
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/TAD-uri/MultipleMap/MultipleMapContainer.h
+TAD-uri/SimpleList/ListContainer.h
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/TAD-uri/SimpleList/ListContainer.h
+Entity/Message.h
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/Entity/Message.h
+Repository/RepositoryMessage.h
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/Repository/RepositoryMessage.h
+Interfaces/IIterator.h
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/Interfaces/IIterator.h
+

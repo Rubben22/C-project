@@ -1,0 +1,3 @@
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/cmake-build-debug/CMakeFiles/Proiect_STD.dir
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rubyn/OneDrive/Desktop/facultate/SDA - an I, sem II/Proiect_SDA/cmake-build-debug/CMakeFiles/rebuild_cache.dir

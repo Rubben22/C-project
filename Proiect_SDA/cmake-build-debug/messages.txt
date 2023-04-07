@@ -1,0 +1,57 @@
+1 pasca ruben pop cornel salut! acesta este primul meu mesaj. 
+2 pasca ruben pop cornel ce mai faci?. 
+3 pop cornel pasca ruben salut! acum am terminat de facut un proiect. 
+4 pasca ruben vlasim cosmina ce ma bucur pentru tine. 
+5 vlasim cosmina pasca ruben cum este la facultate?. 
+6 vlasim cosmina pop cornel asa ma gandeam si eu sa fac. 
+7 pasca ruben pop cristi si mie imi place inghetata cu fructe. 
+8 porumb rares pasca ruben si eu am zis ca maine ma apuc de proiect. 
+9 porumb rares pasca ruben chiar i-am zis si lui asta. 
+10 porumb rares chiorean alexia nici mie nu mi-a venit sa cred. 
+11 chiorean alexia porumb rares nu pot sa te ajut acuma. 
+12 porumb rares jecan tabita nicio problema! cand ai tu timp. 
+13 jecan tabita porumb rares multumesc inca o data. 
+14 cojocarescu andrei chiorean alexia si mie imi place sa joc fotbal. 
+15 cojocarescu andrei olar lavinia vii si tu cu noi?. 
+16 cojocarescu andrei olar lavinia ok atunci, o sa ii spun. 
+17 cojocarescu andrei barlea narcis pana la urma facem asa?. 
+18 pop cornel porumb rares ti-am zis ca o sa fie greu. 
+19 pop cornel luca abel si Mihai spunea aceiasi chestie. 
+20 pop cornel bujorean daniel rezolv cat pot de repede. 
+21 chiorean alexia baldean eusebia nici mie nu imi vine sa cred. 
+22 chiorean alexia plesa corneliu sper ca intr-o zi sa realizezi si tu. 
+23 chiorean alexia tatu damaris zicea ca o sa vina si el. 
+24 baldean eusebia cojocarescu andrei multumesc mult. 
+25 baldean eusebia miclea daniel ti-am zis ca nu o sa iasa bine. 
+26 baldean eusebia bujorean daniel haide sa mancam inghetata. 
+27 miclea daniel porumb rares frumos meci. 
+28 miclea daniel luca abel cantam si noi deseara?. 
+29 miclea daniel pop cristi cum a fost la focul de tabara?. 
+30 olar lavinia vlasim cosmina ce urat ai vorbit cu el. 
+31 olar lavinia tatu damaris si eu i-am spus aceiasi chestie. 
+32 vlasim cosmina pop cornel mi-a placut cum ai vorbit. 
+33 vlasim cosmina bujorean daniel ne vedem cam peste 2h. 
+34 toldas carla pasca ruben cat mai stai?. 
+35 toldas carla pilug elisei poate la anul vii si tu. 
+36 jecan tabita baldean eusebia cum e in America?. 
+37 jecan tabita iepan paul oare cat dureaza?. 
+38 luca abel cojocarescu andrei merge bine masina. 
+39 luca abel olar lavinia imi pare rau!. 
+40 plesa corneliu tatu damaris succes pe mai departe!. 
+41 plesa corneliu iepan paul vii si tu la un pahar de vin?. 
+42 tatu damaris vlasim cosmina deci mai comandam pizza deseara?. 
+43 tatu damaris pop cristi cum vrei tu. 
+45 suciu bogdan pop cornel o sa ii spun ce ai zis. 
+46 suciu bogdan baldean eusebia multumesc ca mi-ai spus. 
+47 pilug elisei toldas carla mai bine asa. 
+48 pilug elisei suciu bogdan vii la fotbal?. 
+49 bujorean daniel cojocarescu andrei mersi mult!. 
+50 bujorean daniel miclea daniel ma bucur ca v-ati distrat!. 
+51 iepan paul jecan tabita cu placere!. 
+52 iepan paul suciu bogdan bun fotograf ai ales?. 
+53 barlea narcis vlasim cosmina iti place Audi?. 
+54 barlea narcis tatu damaris ce frumosi trandafiri!. 
+55 pop cristi baldean eusebia bine ai venit. 
+56 pop cristi miclea daniel si eu ma bucur pentru tine. 
+57 pop cristi bujorean daniel imi place cand vorbesti asa!. 
+100 pasca ruben pop cornel mesaj de test.
